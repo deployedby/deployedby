@@ -1,0 +1,13 @@
+{
+	"@context":[
+		"https://www.w3.org/ns/did/v1",
+		"https://identity.foundation/EcdsaSecp256k1RecoverySignature2020#"
+	],
+	"id":"did:dby:",
+	"publicKey":[{
+		"id": "did:dby:",
+		"controller": "did:dby:",
+		"type": "EcdsaSecp256k1RecoveryMethod2020",
+		"ethereumAddress": ""
+	}]
+}
